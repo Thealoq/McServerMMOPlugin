@@ -1,0 +1,11 @@
+name: Thealoq.code
+version: '${project.version}'
+main: doublethealoq.thealoq.code.Thealoq.code
+api-version: 1.18
+authors: [ Thealoq ]
+description: Thealoq Was Here
+website: thealoq.xyz
+commands:
+  die:
+    description: An easy die
+    usage: /die
